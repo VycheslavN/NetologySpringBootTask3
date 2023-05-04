@@ -7,7 +7,6 @@
 <html>
     <body>
         <h1>Sign in form</h1>
-    
         <form action="/authorize" method="get" target="_blank">
           <label for="user">User name:</label>
           <input type="text" id="user" name="user"><br><br>
